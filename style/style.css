@@ -1,0 +1,291 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    font-weight: normal;
+
+}
+.logo:hover{
+    cursor:pointer;
+}
+
+
+.link{
+    text-decoration: none;
+}
+.li{
+    list-style-type: none;
+}
+
+.header{
+    background-color: rgba(255, 113, 67, 0.27);
+    padding: 38px 0 48px;
+    
+}
+.containeer{
+    max-width: 1070px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.li{
+display: inline-block;
+
+}
+.li:not(first-of-type){
+    margin-left: 38px;
+}
+
+.link:hover{
+    color:#13135f;
+}
+
+.bt0:hover{
+    background-color:#fc6b3a;
+}
+.bt0{
+    height: 60px;
+    width: 200px;
+    border-radius: 13px;
+    border:none;
+    background-color:#FF7143;
+    color:white;
+   
+}
+.bt1:hover{
+    background-color:#4848d4;
+}
+
+
+.bt1{
+    background-color: #5454D4;
+    width: 200px;
+    margin-right: 30px;
+}
+    
+.bt2:hover{
+    background-color:#dcdcfc;
+}
+.bt2{
+    background-color:white;
+    border-color:#5454D4;
+    color: #5454D4;
+    Letter-spacing: -0.53px;
+    height: 60px;
+    width: 200px;
+    border-radius: 13px;
+    
+}
+
+.bt0,.bt1,.bt2:hover{
+    transition: 200ms;
+    cursor: pointer;
+    
+}
+
+.s1{
+    max-width: 1070px;
+    max-height: 523px;
+    margin-left: 143px;
+    margin-top: 90px;
+    display: flex;
+justify-content: space-between;
+
+}
+
+.h1{
+    font-weight: Bold;
+    font-size : 80px;
+    letter-spacing:-2.5px;
+    max-width: 467px;
+    margin-bottom: 30px;
+}
+
+.p{
+    font-size: 20px;
+    font-weight: 400px;
+    font-family: mulish;
+    line-height: 30px;
+    letter-spacing: 0.63px;
+    color: #696871;
+    margin-bottom: 30px;
+}
+
+.text_section{
+    max-width: 470px;
+}
+
+.img_section{
+    display: flex;
+    width: 493px;
+    height: 523px;
+    
+}
+
+.img_section2{
+    width: 348px;
+    height: 473px;
+    margin-top: 50px;   
+}
+
+.s2{
+    max-width: 1070px;
+    padding-left: 145px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.subscription_index{
+   margin-left: 20px;
+}
+.pre-section{
+    display: flex;
+    align-items: center;
+
+}
+.h01{
+    Letter-spacing: -1.56px;
+    font-size: 40px;
+    margin-left: 10px;
+
+}
+.form1{
+    
+    margin: 10px;
+}
+
+.plan{
+    font-style: bold;
+    font-size: 60px;
+    letter-spacing: -1.88px;
+    align-items: left;
+    display: flex;
+    margin-left: 143px;
+    margin-top:80px;
+    max-width: 450px;
+}
+
+.section00{
+    margin-left: 143px;
+    max-width: 683px;
+    max-height: 1070px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 120px;
+    
+}
+
+.starter{
+    background-color: #F8F8F8;
+    min-width: 329px;
+    min-height:379px ;
+    max-width: 330px;
+    max-height: 380px;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 50px;
+    color: #696871;
+    border-radius: 12px;
+}   
+
+.bt00{
+    border:none;
+    color: #5454D4;
+    font-style: bold;
+    font-size:17px;
+    letter-spacing: -0.53px;
+}
+
+
+.premium{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FF7143;
+    color:white;
+    margin-left: 35px;
+}
+
+.h005{
+    margin-bottom: 10px;
+}
+
+.hP{
+    
+    margin-bottom: 10px;    
+}
+
+
+.bt01{
+    background-color: #9F3919;
+}
+
+.bt01:hover{
+    background-color: #9F3919;
+    color:#4e1706;
+}
+
+
+span {
+    font-size: 50px;
+  }
+  
+  span b {
+    font-size: 50%;
+  }
+
+
+  .enterprice{
+    margin-left: 35px;
+  }
+
+.E49{
+font-style:bold;
+color:black;
+}
+
+.h0005{
+    margin-bottom: 10px;
+}
+
+
+.bt02{
+    margin-top: 30px;
+}
+
+.footer{
+    background-color: rgba(255, 113, 67, 0.27);
+    padding: 38px 0 48px;
+}
+
+.containeer1{
+    max-width: 1070px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+
+.ul1{
+    display: flex;
+    align-items: center;
+    
+}
+
+.li1{
+    list-style-type: none;
+    margin-left: 34px;
+}
+
+.link1{
+    text-decoration: none;
+}
